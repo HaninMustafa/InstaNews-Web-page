@@ -1,0 +1,45 @@
+.container {
+  width: 100%;
+  max-width: 1600px;
+  margin: 0 auto;
+}
+.main-header {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 80vh;
+  padding: 2rem;
+  @media (min-width: 600px) {
+    display: flex;
+    justify-content:center;;
+ }
+@media (min-width: 1000px){
+  display: flex;
+justify-content: flex-start;
+}
+}
+.logo {
+display: block;
+text-align: center;
+width: 100%;
+@media (min-width: 600px) {
+  width: 25%;
+text-align: left;
+}
+}
+.select-form {
+  display: block;
+  @media (min-width: 600px) {
+    margin-left: 4rem;
+text-align: right;
+}
+}
+.select-form p{
+  text-align: center;
+  margin: 1rem;
+}
+
+#mySelect{
+font-size: 2rem;
+}
