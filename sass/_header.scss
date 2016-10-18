@@ -10,6 +10,7 @@
   flex-wrap: wrap;
   height: 80vh;
   padding: 2rem;
+  transition: height .5s ease;
   @media (min-width: 600px) {
     display: flex;
     justify-content:center;;
@@ -42,4 +43,8 @@ text-align: right;
 
 #mySelect{
 font-size: 2rem;
+}
+.img-logo {
+  transition: all .5s .5s ease-out;
+
 }
