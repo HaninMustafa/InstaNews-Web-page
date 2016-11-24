@@ -8,12 +8,12 @@
 This is the second web page we do in Red Academy. It is about a website that gives the top stories from the New York Times API. we put the URL link using ajax format in javascript.
 
 ##Tools and Methods used:
-HTML
-CSS/SCSS
-Javascript
-jquery
-gulp
-heapbox plugin
+*HTML
+*CSS/SCSS
+*Javascript
+*jquery
+*gulp
+*heapbox plugin
 
 ##Overview:
 For the structure layer HTML, it was pretty easy and simple to form. we connected all the stylesheept and script files to the HTML file.
