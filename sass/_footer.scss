@@ -4,4 +4,8 @@ footer {
   text-align: center;
   margin: 2rem 2rem;
   height: 2rem;
+
+@media (min-width: 1000px){
+      text-align: left;
+}
 }

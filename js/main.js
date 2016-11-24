@@ -42,10 +42,5 @@ $.each(data.results, function(key, value){
   $('.loader').css('display','none');
 })
 })
-// $("#mySelect").heapbox({
-//   showFirst: !1,
-//   "onChange":function() {
-//
-// }
-// });
+
 });

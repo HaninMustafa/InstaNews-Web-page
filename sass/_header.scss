@@ -24,7 +24,8 @@
     display: flex;
     -webkit-box-pack:center;
         -ms-flex-pack:center;
-            justify-content:center;;
+            justify-content:center;
+            align-items: center;
  }
 @media (min-width: 1000px){
   display: -webkit-box;
